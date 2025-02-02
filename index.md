@@ -1,10 +1,6 @@
 # Welcome to My Portfolio
 
-Hello! I'm **Alejandro Soto Franco**, and this is my portfolio showcasing work in:
-
-- **Quantitative Finance**
-- **Liquid Crystal Physics**
-- **Differential Geometry**
+Hello! I'm **Alejandro Soto Franco**, a mathematician with an interest in differential geometry, symmetry-breaking transformations, and reinforcement learning models. I am currently employed as a research assistant in Daniel Beller's theoretical soft condensed-matter physics lab at Johns Hopkins University.
 
 Feel free to explore my projects below or [get in touch](#contact).
 
@@ -30,6 +26,6 @@ Feel free to explore my projects below or [get in touch](#contact).
 
 You can reach me at:
 
-- **Email:** [alejandro@example.com](mailto:alejandro@example.com)
+- **Email:** [asoto12](mailto:alejandro@example.com)
 - **GitHub:** [github.com/alejandro-soto-franco](https://github.com/alejandro-soto-franco)
-- **LinkedIn:** [linkedin.com/in/alejandro-soto-franco](https://linkedin.com/in/alejandro-soto-franco)
+- **LinkedIn:** [linkedin.com/in/alejandro-soto-franco](https://www.linkedin.com/in/alejandro-soto-franco-500573209/)
