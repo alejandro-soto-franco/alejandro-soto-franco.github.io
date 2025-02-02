@@ -1,4 +1,4 @@
-# Welcome to My Portfolio
+# Intro
 
 Hello! I'm **Alejandro Soto Franco**, a mathematician with an interest in differential geometry, symmetry-breaking transformations, and reinforcement learning models. I am currently employed as a research assistant in Daniel Beller's theoretical soft condensed-matter physics lab at Johns Hopkins University.
 
