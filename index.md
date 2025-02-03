@@ -8,17 +8,17 @@ Feel free to explore my projects below or [get in touch](#contact).
 
 ## Projects
 
-### Quantitative Finance
+### Quantitative finance
 - [Manifold Reinforcement Learning for Trading](manifold-rl.md)
 - [Geometric Models for Option Pricing](option-pricing.md)
 
-### Liquid Crystal Physics
-- [Defect Dynamics in Liquid Crystals](liquid-crystals.md)
-- [Electro-optic Properties of Liquid Crystals](electro-optics.md)
+### Active liquid crystals
+- [Periodic Defect Dynamics in 2D Confined Active Nematic Liquid Crystals](active-nlc-2d.md)
+- [Symmetry breaking in the fusion of nematically ordered membranes](membrane-symmetry.md)
 
-### Differential Geometry
-- [Curvature and Financial Manifolds](curvature-manifolds.md)
-- [Geometric PDEs in Option Pricing](geometric-pdes.md)
+### Differential geometry
+- On constitutive relationships governed by Ricci flow
+- Exploring Riemannian manifolds
 
 ---
 
