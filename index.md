@@ -26,6 +26,6 @@ Feel free to explore my projects below or [get in touch](#contact).
 
 You can reach me at:
 
-- **Email:** [asoto12](mailto:alejandro@example.com)
+- **Email:** [sotofranco.eng@gmail.com](mailto:sotofranco.eng@gmail.com)
 - **GitHub:** [github.com/alejandro-soto-franco](https://github.com/alejandro-soto-franco)
 - **LinkedIn:** [linkedin.com/in/alejandro-soto-franco](https://www.linkedin.com/in/alejandro-soto-franco-500573209/)
