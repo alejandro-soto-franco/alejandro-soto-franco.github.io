@@ -16,7 +16,7 @@ Feel free to explore my projects below or [get in touch](#contact).
 
 ### Pharmacokinetics and pharmacodynamics year-long project course
 - https://github.com/alejandro-soto-franco/jhu-pkpd-2324.
-- 
+  
 ---
 
 ## Contact
