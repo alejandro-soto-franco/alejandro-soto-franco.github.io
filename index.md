@@ -1,6 +1,6 @@
 # Intro
 
-Hello! I'm **Alejandro Soto Franco**, a mathematician with an interest in differential geometry, symmetry-breaking transformations, and reinforcement learning models. I am currently employed as a research assistant in Daniel Beller's theoretical soft condensed-matter physics lab at Johns Hopkins University.
+Hello! I'm **Alejandro Soto Franco**, a biomedical engineer with substantial interest in boundary problems, liquid crystals theory, and computational approaches to biological nonlinear dynamics. 
 
 Feel free to explore my projects below or [get in touch](#contact).
 
@@ -8,18 +8,15 @@ Feel free to explore my projects below or [get in touch](#contact).
 
 ## Projects
 
-### Quantitative finance
-- [Manifold Reinforcement Learning for Trading](manifold-rl.md)
-- [Geometric Models for Option Pricing](option-pricing.md)
+### catLC: categorical multiscale field theory for liquid crystals
+- https://github.com/alejandro-soto-franco/catLC.
 
-### Active liquid crystals
-- [Periodic Defect Dynamics in 2D Confined Active Nematic Liquid Crystals](active-nlc-2d.md)
-- [Symmetry breaking in the fusion of nematically ordered membranes](membrane-symmetry.md)
+### Periodic defect dynamics of 2D confined active nematics
+- See https://arxiv.org/abs/2503.10880.
 
-### Differential geometry
-- On constitutive relationships governed by Ricci flow
-- Exploring Riemannian manifolds
-
+### Pharmacokinetics and pharmacodynamics year-long project course
+- https://github.com/alejandro-soto-franco/jhu-pkpd-2324.
+- 
 ---
 
 ## Contact
