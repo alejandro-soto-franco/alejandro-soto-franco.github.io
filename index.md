@@ -12,7 +12,7 @@ Feel free to explore some of my featured projects below—or [get in touch](#con
 A foundational formalism for modeling topological and geometric features of liquid crystal systems across scales. Uses category theory, differential geometry, and type theory to unify active matter dynamics with sheaf-theoretic representations. Implemented in Rust and Lean.
 
 ### [Periodic Defect Dynamics of 2D Confined Active Nematics](https://arxiv.org/abs/2503.10880)
-Published on arXiv and under submission at *PRX*, this paper explores how confined active nematics develop self-organized, periodic braiding structures. It quantifies defect motion and entropy growth, and draws connections to braid theory and spectral dynamics in topological systems.
+Published on arXiv and under review for *PRX*, this paper explores how confined active nematics develop self-organized, periodic braiding structures. It quantifies defect motion and entropy growth, and draws connections to braid theory and spectral dynamics in topological systems.
 
 ### [Pharmacokinetics and Pharmacodynamics (PK/PD) Year-Long Project Course](https://github.com/alejandro-soto-franco/jhu-pkpd-2324)
 Course-length computational research on nonlinear PK/PD models, dosing dynamics, and parameter sensitivity. Built with reproducible Jupyter notebooks and simulations, integrating experimental data and pharmacological theory.
