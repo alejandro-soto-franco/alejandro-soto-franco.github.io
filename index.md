@@ -1,4 +1,4 @@
-# 👋 Hello, I'm **Alejandro Soto Franco**
+# 👋 Hola! :)
 
 I’m a biomedical engineer with deep research experience at the intersection of **boundary value problems**, **liquid crystal theory**, and **computational modeling of nonlinear biological systems** at various effective length scales. My work spans is unified by a passion for precise derivation and meaningful applications in physics, biology, and engineering.
 
