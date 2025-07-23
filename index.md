@@ -1,4 +1,4 @@
-# Alejandro Soto Franco
+# Hi there!
 
 I’m a biomedical engineer and computational scientist focused on **nonlinear biological systems**, **field-theoretic modeling**, and **applied geometry**. My research combines **boundary value problems**, **liquid crystal physics**, and **biological inference** across multiple scales.
 
